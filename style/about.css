@@ -1,0 +1,9 @@
+.about img{
+    width: 35%;
+    border-radius: 10px;
+}
+.about-text p{
+    width: 65%;
+    height: 100px;
+    text-align: center;
+}
